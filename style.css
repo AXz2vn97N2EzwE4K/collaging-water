@@ -6,7 +6,7 @@ body {
 
 .container {
   padding: 10%;
-  transform: rotate(90deg);
+  /*transform: rotate(90deg);*/
 }
 
 
