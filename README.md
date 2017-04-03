@@ -1,5 +1,5 @@
-# [COLLAGING WATER](https://abimunoz.github.io/water-frames/)
-HTML | CSS
+# [COLLAGING WATER](https://abimunoz.github.io/collaging-water/)
+HTML | CSS | GIF
 
 Collaging with gifs
 
